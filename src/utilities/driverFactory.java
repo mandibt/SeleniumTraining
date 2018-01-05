@@ -6,7 +6,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class driverFactory {
+	
 	//This method will return webdriver object
+	
 	public static WebDriver openBrowser(String browser) {
 		if (browser.equalsIgnoreCase("firefox")) {
 			return new FirefoxDriver();

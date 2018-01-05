@@ -41,7 +41,7 @@ public class NewAccount {
 		WebElement maleRadio		= driver.findElement(By.id("MainContent_Male"));
 		WebElement selectCountry	= driver.findElement(By.id("MainContent_menuCountry"));
 		WebElement weeklychkbox     = driver.findElement(By.id("MainContent_checkWeeklyEmail"));
-		WebElement monthlychkbox     = driver.findElement(By.id("MainContent_checkMonthlyEmail"));
+		WebElement monthlychkbox    = driver.findElement(By.id("MainContent_checkMonthlyEmail"));
 		WebElement ocasschkbox  	= driver.findElement(By.id("MainContent_checkUpdates"));
 		WebElement submitButton		= driver.findElement(By.id("MainContent_btnSubmit"));
 		
