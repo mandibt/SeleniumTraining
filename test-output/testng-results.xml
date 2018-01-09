@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9064" started-at="2018-01-05T16:08:27Z" finished-at="2018-01-05T16:08:36Z">
+  <suite name="Default suite" duration-ms="8278" started-at="2018-01-09T13:48:23Z" finished-at="2018-01-09T13:48:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9064" started-at="2018-01-05T16:08:27Z" finished-at="2018-01-05T16:08:36Z">
-      <class name="smoketests.LoginPresentTestNG">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:smoketests.LoginPresentTestNG@167fdd33]" name="setUp" is-config="true" duration-ms="8610" started-at="2018-01-05T17:08:27Z" finished-at="2018-01-05T17:08:36Z">
+    <test name="Default test" duration-ms="8278" started-at="2018-01-09T13:48:23Z" finished-at="2018-01-09T13:48:31Z">
+      <class name="smoketests.ATagsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:smoketests.ATagsTest@167fdd33]" name="setUp" is-config="true" duration-ms="7148" started-at="2018-01-09T14:48:23Z" finished-at="2018-01-09T14:48:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginElementsPresent()[pri:0, instance:smoketests.LoginPresentTestNG@167fdd33]" name="loginElementsPresent" duration-ms="87" started-at="2018-01-05T17:08:36Z" finished-at="2018-01-05T17:08:36Z">
+        <test-method status="PASS" signature="loginElementsPresent()[pri:0, instance:smoketests.ATagsTest@167fdd33]" name="loginElementsPresent" duration-ms="835" started-at="2018-01-09T14:48:30Z" finished-at="2018-01-09T14:48:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginElementsPresent -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:smoketests.LoginPresentTestNG@167fdd33]" name="tearDown" is-config="true" duration-ms="350" started-at="2018-01-05T17:08:36Z" finished-at="2018-01-05T17:08:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:smoketests.ATagsTest@167fdd33]" name="tearDown" is-config="true" duration-ms="274" started-at="2018-01-09T14:48:31Z" finished-at="2018-01-09T14:48:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- smoketests.LoginPresentTestNG -->
+      </class> <!-- smoketests.ATagsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
